@@ -1,0 +1,13 @@
+package com.mkyong.common.SpringExample.model;
+
+
+import java.sql.Timestamp;
+
+public class Customer 
+{
+	int custId;
+	String name;
+	int age;
+	//getter and setter methods
+	
+}

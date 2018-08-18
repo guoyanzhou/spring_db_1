@@ -1,0 +1,2 @@
+The mysql 8 need mysql-connector-java 8.0.11, also need jdbc url to handle the time zone, authentication, and
+other jdbc connection issue.

@@ -1,0 +1,5 @@
+package com.mkyong.common.SpringExample.model;
+
+public class Customer {
+
+}

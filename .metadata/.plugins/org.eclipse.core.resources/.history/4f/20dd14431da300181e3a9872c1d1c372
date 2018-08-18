@@ -1,0 +1,5 @@
+package com.mkyong.common.SpringExample.customer.dao;
+
+public interface CustomerDAO {
+
+}
